@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('wrms-toaster', [
+        .module('wb-toaster', [
             'ngMaterial'
         ]);
 })();

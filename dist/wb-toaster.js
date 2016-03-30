@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('wrms-toaster', [
+        .module('wb-toaster', [
             'ngMaterial'
         ]);
 })();
@@ -11,7 +11,7 @@
     'use strict';
 
     angular
-        .module('wrms-toaster')
+        .module('wb-toaster')
         .factory('toasterService', toasterService);
 
     toasterService.$inject = ['$mdToast'];
