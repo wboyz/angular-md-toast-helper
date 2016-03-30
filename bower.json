@@ -1,0 +1,27 @@
+{
+  "name": "angular-md-toast-helper",
+  "authors": [
+    "verebelyicsaba <csaba.verebelyi@gmail.com>",
+    "verebelyibertalan <bertalan.verebelyi@gmail.com>"
+  ],
+  "description": "A helper service for Angular Material Toast service.",
+  "main": "toaster.app.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "material",
+    "toast"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.6"
+  }
+}
