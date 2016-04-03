@@ -4,8 +4,8 @@
     "verebelyicsaba <csaba.verebelyi@gmail.com>",
     "verebelyibertalan <bertalan.verebelyi@gmail.com>"
   ],
-  "description": "A helper service for Angular Material Toast service.",
-  "main": "toaster.app.js",
+  "description": "A wrapper service for Angular Material Toast service.",
+  "main": "dist/wb-toaster.js",
   "moduleType": [],
   "keywords": [
     "angular",
